@@ -12,3 +12,5 @@ Problems Link 👇 👇 👇
 #### [Problem 4](https://projecteuler.net/problem=4)
 
 #### [Problem 5](https://projecteuler.net/problem=5)
+
+#### [Problem 6](https://projecteuler.net/problem=6)
